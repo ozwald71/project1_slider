@@ -24,10 +24,10 @@ background: #d7ead0
 
 #slider img {
   position: absolute;
-  top: 20px;
-  left: 40px;
-  max-width:600px;
-  max-height:400px;
+  top: 15px;
+  left: 37.5px;
+  max-width:550px;
+  max-height:450px;
 }
 
 
